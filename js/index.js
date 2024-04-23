@@ -23,7 +23,7 @@ $(function(){
     var musicImgsData = ['img/bg.png','img/bg.png','img/bg.png','img/bg.png','img/bg.png','img/bg.png','img/bg.png','img/bg.png']    // 图片地址数组
     var musicNameData = ['晨跑','冥想','写日记','火锅','雨声','树叶沙沙声','猫','一个人的夜晚'];                   // 歌曲名数组
     var artistNameData = ['短平快电台','短平快电台','短平快电台','短平快电台','短平快电台','短平快电台','短平快电台','短平快电台']            // 创作歌手数组
-    var musicUrls=['test/test.mp3','mp3/2.mp3','mp3/3.mp3','mp3/4.mp3','mp3/5.1.mp3','mp3/5.2.mp3','mp3/6.mp3','mp3/7.mp3'];// 歌曲mp3数组
+    var musicUrls=['mp3/1.mp3','mp3/2.mp3','mp3/3.mp3','mp3/4.mp3','mp3/5.1.mp3','mp3/5.2.mp3','mp3/6.mp3','mp3/7.mp3'];// 歌曲mp3数组
     var currIndex = -1;              // 当前播放索引
     var order = 0; //指定播放索引
     
